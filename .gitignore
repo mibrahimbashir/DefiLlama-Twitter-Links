@@ -1,0 +1,9 @@
+venv/
+*.pyc
+__pycache__/
+*.log
+*.sqlite3
+chromedriver
+geckodriver
+.ipynb_checkpoints/
+.env
